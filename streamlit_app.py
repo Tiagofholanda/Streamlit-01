@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 
-st.title("📊 Tiago holanda")
+st.title("📊 Tiago Fernando de Holanda")
 
 st.write(
     "We are so glad to see you here. ✨ "
